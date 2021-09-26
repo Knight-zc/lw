@@ -1,1 +1,488 @@
-<mxfile host="app.diagrams.net" modified="2021-09-24T09:33:21.408Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.131 Safari/537.36 Edg/92.0.902.73" etag="ANVZcS8CPi-49lwXX676" version="15.2.9" type="github"><diagram name="Page-1" id="efa7a0a1-bf9b-a30e-e6df-94a7791c09e9">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</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2021-09-26T03:37:23.835Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.131 Safari/537.36 Edg/92.0.902.73" etag="Op3-kOoIp82gAWGMLd5a" version="15.2.9" type="github">
+  <diagram name="Page-1" id="efa7a0a1-bf9b-a30e-e6df-94a7791c09e9">
+    <mxGraphModel dx="1395" dy="2105" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="826" pageHeight="1169" background="none" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="b7yM-y_k4tkeJ6indnib-252" value="" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;strokeColor=default;fillColor=#E6FFCC;align=center;verticalAlign=middle;opacity=30;" vertex="1" parent="1">
+          <mxGeometry x="40" y="940" width="730" height="590" as="geometry" />
+        </mxCell>
+        <mxCell id="b7yM-y_k4tkeJ6indnib-130" value="&lt;p style=&quot;box-sizing: border-box ; margin-top: 0px ; margin-bottom: 1.25rem ; color: rgb(33 , 37 , 41) ; font-family: , , &amp;#34;segoe ui&amp;#34; , &amp;#34;roboto&amp;#34; , &amp;#34;helvetica neue&amp;#34; , &amp;#34;arial&amp;#34; , &amp;#34;noto sans&amp;#34; , &amp;#34;liberation sans&amp;#34; , sans-serif , &amp;#34;apple color emoji&amp;#34; , &amp;#34;segoe ui emoji&amp;#34; , &amp;#34;segoe ui symbol&amp;#34; , &amp;#34;noto color emoji&amp;#34; ; font-size: 16px ; background-color: rgb(255 , 255 , 255)&quot;&gt;&lt;br&gt;&lt;/p&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;align=left;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="780" y="420" width="730" height="510" as="geometry" />
+        </mxCell>
+        <mxCell id="b7yM-y_k4tkeJ6indnib-192" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;fontSize=16;align=center;" edge="1" parent="1" source="b7yM-y_k4tkeJ6indnib-168" target="b7yM-y_k4tkeJ6indnib-181">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="b7yM-y_k4tkeJ6indnib-211" value="预处理数据" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=16;horizontal=0;" vertex="1" connectable="0" parent="b7yM-y_k4tkeJ6indnib-192">
+          <mxGeometry x="-0.1317" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="b7yM-y_k4tkeJ6indnib-168" value="" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;strokeColor=default;align=center;" vertex="1" parent="1">
+          <mxGeometry x="1070" y="430" width="360" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="b7yM-y_k4tkeJ6indnib-120" value="&lt;p style=&quot;box-sizing: border-box ; margin-top: 0px ; margin-bottom: 1.25rem ; color: rgb(33 , 37 , 41) ; font-family: , , &amp;#34;segoe ui&amp;#34; , &amp;#34;roboto&amp;#34; , &amp;#34;helvetica neue&amp;#34; , &amp;#34;arial&amp;#34; , &amp;#34;noto sans&amp;#34; , &amp;#34;liberation sans&amp;#34; , sans-serif , &amp;#34;apple color emoji&amp;#34; , &amp;#34;segoe ui emoji&amp;#34; , &amp;#34;segoe ui symbol&amp;#34; , &amp;#34;noto color emoji&amp;#34; ; font-size: 16px ; background-color: rgb(255 , 255 , 255)&quot;&gt;&lt;br&gt;&lt;/p&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;align=left;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="40" y="420" width="730" height="510" as="geometry" />
+        </mxCell>
+        <mxCell id="b7yM-y_k4tkeJ6indnib-141" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=16;align=center;" edge="1" parent="1" source="b7yM-y_k4tkeJ6indnib-114" target="b7yM-y_k4tkeJ6indnib-118">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="b7yM-y_k4tkeJ6indnib-142" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=16;align=center;" edge="1" parent="1" source="b7yM-y_k4tkeJ6indnib-114" target="b7yM-y_k4tkeJ6indnib-132">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="b7yM-y_k4tkeJ6indnib-114" value="&lt;b style=&quot;font-size: 24px&quot;&gt;采集分析条件：&lt;/b&gt;&lt;br&gt;&lt;div style=&quot;font-size: 16px&quot;&gt;&lt;font style=&quot;font-size: 16px&quot;&gt;日志规格：&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 16px&quot;&gt;&lt;font style=&quot;font-size: 16px&quot;&gt;1、每分钟原始数据单条数据为1.6K，数据量单集群最大查询为30000W条，通过HTTP查询；&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 16px&quot;&gt;&lt;font style=&quot;font-size: 16px&quot;&gt;2、指标量规则 6000条，单指标规则对应一个指标，例如TPS、接口时延、接口带宽等；&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 16px&quot;&gt;&lt;font style=&quot;font-size: 16px&quot;&gt;3、指标分组字段支持100+个字段的分组，单个分组实例最大有5W个（活动桶）；&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 16px&quot;&gt;&lt;font style=&quot;font-size: 16px&quot;&gt;4、输出指标计算量为30000W条，指具体指标实例数量；&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 16px&quot;&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeColor=#56517e;fillColor=#d0cee2;" vertex="1" parent="1">
+          <mxGeometry x="40" y="-20" width="1470" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="b7yM-y_k4tkeJ6indnib-121" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="b7yM-y_k4tkeJ6indnib-118" target="b7yM-y_k4tkeJ6indnib-120">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="b7yM-y_k4tkeJ6indnib-118" value="&lt;h3 id=&quot;item-3-1&quot; style=&quot;box-sizing: border-box ; margin: 2.25rem 0px 1rem ; font-weight: 500 ; line-height: 1.2 ; font-size: 1.5rem ; color: rgb(33 , 37 , 41) ; font-family: , , &amp;#34;segoe ui&amp;#34; , &amp;#34;roboto&amp;#34; , &amp;#34;helvetica neue&amp;#34; , &amp;#34;arial&amp;#34; , &amp;#34;noto sans&amp;#34; , &amp;#34;liberation sans&amp;#34; , sans-serif , &amp;#34;apple color emoji&amp;#34; , &amp;#34;segoe ui emoji&amp;#34; , &amp;#34;segoe ui symbol&amp;#34; , &amp;#34;noto color emoji&amp;#34; ; background-color: rgb(255 , 255 , 255)&quot;&gt;难点：日志的聚合归类和后效原因提炼&lt;/h3&gt;&lt;p style=&quot;box-sizing: border-box ; margin-top: 0px ; margin-bottom: 1.25rem ; color: rgb(33 , 37 , 41) ; font-family: , , &amp;#34;segoe ui&amp;#34; , &amp;#34;roboto&amp;#34; , &amp;#34;helvetica neue&amp;#34; , &amp;#34;arial&amp;#34; , &amp;#34;noto sans&amp;#34; , &amp;#34;liberation sans&amp;#34; , sans-serif , &amp;#34;apple color emoji&amp;#34; , &amp;#34;segoe ui emoji&amp;#34; , &amp;#34;segoe ui symbol&amp;#34; , &amp;#34;noto color emoji&amp;#34; ; font-size: 16px ; background-color: rgb(255 , 255 , 255)&quot;&gt;我们首先需要从海量日志数据中筛选出有效的部分，并对该部分日志数据进行归纳，根据我们预先设置的日志解析策略，对全链路的日志数据打上对应标记，以帮助我们分析消息在各阶段的故障原因。&lt;/p&gt;&lt;p style=&quot;box-sizing: border-box ; margin-top: 0px ; margin-bottom: 1.25rem ; color: rgb(33 , 37 , 41) ; font-family: , , &amp;#34;segoe ui&amp;#34; , &amp;#34;roboto&amp;#34; , &amp;#34;helvetica neue&amp;#34; , &amp;#34;arial&amp;#34; , &amp;#34;noto sans&amp;#34; , &amp;#34;liberation sans&amp;#34; , sans-serif , &amp;#34;apple color emoji&amp;#34; , &amp;#34;segoe ui emoji&amp;#34; , &amp;#34;segoe ui symbol&amp;#34; , &amp;#34;noto color emoji&amp;#34; ; font-size: 16px ; background-color: rgb(255 , 255 , 255)&quot;&gt;因此可以对消息推送的整个链路做了一次大梳理，从推送阶段入手，将推送模块区分为入口层、处理层、下发层、客户端等四层，然后对各层可能存在的故障原因进行了提炼&lt;/p&gt;" style="whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="40" y="170" width="730" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="b7yM-y_k4tkeJ6indnib-124" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;align=center;" edge="1" parent="1" source="b7yM-y_k4tkeJ6indnib-122" target="b7yM-y_k4tkeJ6indnib-123">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="b7yM-y_k4tkeJ6indnib-122" value="&lt;span style=&quot;color: rgb(33 , 37 , 41) ; font-family: , , &amp;quot;segoe ui&amp;quot; , &amp;quot;roboto&amp;quot; , &amp;quot;helvetica neue&amp;quot; , &amp;quot;arial&amp;quot; , &amp;quot;noto sans&amp;quot; , &amp;quot;liberation sans&amp;quot; , sans-serif , &amp;quot;apple color emoji&amp;quot; , &amp;quot;segoe ui emoji&amp;quot; , &amp;quot;segoe ui symbol&amp;quot; , &amp;quot;noto color emoji&amp;quot; ; font-size: 16px ; background-color: rgb(255 , 255 , 255)&quot;&gt;入口层&lt;br&gt;接收请求&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=default;align=center;" vertex="1" parent="1">
+          <mxGeometry x="45" y="430" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="b7yM-y_k4tkeJ6indnib-126" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;align=center;" edge="1" parent="1" source="b7yM-y_k4tkeJ6indnib-123" target="b7yM-y_k4tkeJ6indnib-125">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="b7yM-y_k4tkeJ6indnib-123" value="&lt;span style=&quot;color: rgb(33 , 37 , 41) ; font-family: , , &amp;quot;segoe ui&amp;quot; , &amp;quot;roboto&amp;quot; , &amp;quot;helvetica neue&amp;quot; , &amp;quot;arial&amp;quot; , &amp;quot;noto sans&amp;quot; , &amp;quot;liberation sans&amp;quot; , sans-serif , &amp;quot;apple color emoji&amp;quot; , &amp;quot;segoe ui emoji&amp;quot; , &amp;quot;segoe ui symbol&amp;quot; , &amp;quot;noto color emoji&amp;quot; ; font-size: 16px ; background-color: rgb(255 , 255 , 255)&quot;&gt;处理层&lt;br&gt;目标筛选&lt;br&gt;&lt;/span&gt;" style="whiteSpace=wrap;html=1;rounded=1;align=center;strokeColor=default;" vertex="1" parent="1">
+          <mxGeometry x="245" y="430" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="b7yM-y_k4tkeJ6indnib-128" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;align=center;" edge="1" parent="1" source="b7yM-y_k4tkeJ6indnib-125" target="b7yM-y_k4tkeJ6indnib-127">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="b7yM-y_k4tkeJ6indnib-125" value="下发层&lt;br style=&quot;font-size: 16px;&quot;&gt;日志下发" style="whiteSpace=wrap;html=1;rounded=1;align=center;strokeColor=default;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="445" y="430" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="b7yM-y_k4tkeJ6indnib-127" value="应用层&lt;br style=&quot;font-size: 16px;&quot;&gt;运维应用使用" style="whiteSpace=wrap;html=1;rounded=1;align=center;strokeColor=default;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="645" y="430" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="b7yM-y_k4tkeJ6indnib-129" value="&lt;p style=&quot;text-align: left; box-sizing: border-box; margin-top: 0px; margin-bottom: 1.25rem;&quot;&gt;✦在入口层，我们主要关注服务端收到的请求内容是否通过格式校验，以及各类目标参数是否设置无误，比如“CID是否有效”“鉴权信息是否异常”等。&lt;/p&gt;&lt;p style=&quot;text-align: left; box-sizing: border-box; margin-top: 0px; margin-bottom: 1.25rem;&quot;&gt;✦在处理层，我们关注目标客户端是否符合下发条件，例如可能因为推送策略限制，导致服务端无法给部分客户端进行后续推送。&lt;/p&gt;&lt;p style=&quot;text-align: left; box-sizing: border-box; margin-top: 0px; margin-bottom: 1.25rem;&quot;&gt;✦在下发层，我们关注客户端与服务端的网络连接是否正常，比如，在线通道是否有效等。&lt;/p&gt;&lt;p style=&quot;text-align: left; box-sizing: border-box; margin-top: 0px; margin-bottom: 1.25rem;&quot;&gt;✦最终在应用层接收到日志消息的时候主要损耗在数据的读取和写入上面。&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;fontColor=default;labelBackgroundColor=none;" vertex="1" parent="1">
+          <mxGeometry x="40" y="520" width="730" height="210" as="geometry" />
+        </mxCell>
+        <mxCell id="b7yM-y_k4tkeJ6indnib-131" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="b7yM-y_k4tkeJ6indnib-132" target="b7yM-y_k4tkeJ6indnib-130">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="b7yM-y_k4tkeJ6indnib-132" value="&lt;h3 id=&quot;item-3-1&quot; style=&quot;box-sizing: border-box ; margin: 2.25rem 0px 1rem ; font-weight: 500 ; line-height: 1.2 ; font-size: 1.5rem ; color: rgb(33 , 37 , 41) ; font-family: , , &amp;#34;segoe ui&amp;#34; , &amp;#34;roboto&amp;#34; , &amp;#34;helvetica neue&amp;#34; , &amp;#34;arial&amp;#34; , &amp;#34;noto sans&amp;#34; , &amp;#34;liberation sans&amp;#34; , sans-serif , &amp;#34;apple color emoji&amp;#34; , &amp;#34;segoe ui emoji&amp;#34; , &amp;#34;segoe ui symbol&amp;#34; , &amp;#34;noto color emoji&amp;#34; ; background-color: rgb(255 , 255 , 255)&quot;&gt;难点：PB级别日志数据的处理和准确计算&lt;/h3&gt;&lt;p style=&quot;box-sizing: border-box ; margin-top: 0px ; margin-bottom: 1.25rem ; color: rgb(33 , 37 , 41) ; font-family: , , &amp;#34;segoe ui&amp;#34; , &amp;#34;roboto&amp;#34; , &amp;#34;helvetica neue&amp;#34; , &amp;#34;arial&amp;#34; , &amp;#34;noto sans&amp;#34; , &amp;#34;liberation sans&amp;#34; , sans-serif , &amp;#34;apple color emoji&amp;#34; , &amp;#34;segoe ui emoji&amp;#34; , &amp;#34;segoe ui symbol&amp;#34; , &amp;#34;noto color emoji&amp;#34; ; font-size: 16px ; background-color: rgb(255 , 255 , 255)&quot;&gt;基于沟通的各场景，我们筛选出相关日志，通过前期的标记来提炼故障原因。&lt;/p&gt;&lt;p style=&quot;box-sizing: border-box ; margin-top: 0px ; margin-bottom: 1.25rem ; color: rgb(33 , 37 , 41) ; font-family: , , &amp;#34;segoe ui&amp;#34; , &amp;#34;roboto&amp;#34; , &amp;#34;helvetica neue&amp;#34; , &amp;#34;arial&amp;#34; , &amp;#34;noto sans&amp;#34; , &amp;#34;liberation sans&amp;#34; , sans-serif , &amp;#34;apple color emoji&amp;#34; , &amp;#34;segoe ui emoji&amp;#34; , &amp;#34;segoe ui symbol&amp;#34; , &amp;#34;noto color emoji&amp;#34; ; font-size: 16px ; background-color: rgb(255 , 255 , 255)&quot;&gt;在一条消息的下发过程中，服务端会产生大量日志，单个节点一天的日志量就能达到PB级别。如何对亿级别的日志进行过滤和计算，是进行日志数据数据分析的第一个难题。&lt;/p&gt;" style="whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="780" y="170" width="730" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="b7yM-y_k4tkeJ6indnib-143" value="CDC日志采集" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;strokeColor=default;align=center;" vertex="1" parent="1">
+          <mxGeometry x="790" y="464" width="120" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="b7yM-y_k4tkeJ6indnib-160" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=16;align=center;" edge="1" parent="1" source="b7yM-y_k4tkeJ6indnib-144" target="b7yM-y_k4tkeJ6indnib-159">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="b7yM-y_k4tkeJ6indnib-163" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.25;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=16;align=center;dashed=1;" edge="1" parent="1" source="b7yM-y_k4tkeJ6indnib-144" target="b7yM-y_k4tkeJ6indnib-161">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="b7yM-y_k4tkeJ6indnib-144" value="" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;strokeColor=default;align=center;" vertex="1" parent="1">
+          <mxGeometry x="790" y="494" width="120" height="260" as="geometry" />
+        </mxCell>
+        <mxCell id="b7yM-y_k4tkeJ6indnib-145" value="原始日志" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;strokeColor=default;align=center;" vertex="1" parent="1">
+          <mxGeometry x="800" y="504" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="b7yM-y_k4tkeJ6indnib-146" value="API日志" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;strokeColor=default;align=center;" vertex="1" parent="1">
+          <mxGeometry x="800" y="554" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="b7yM-y_k4tkeJ6indnib-147" value="消息日志" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;strokeColor=default;align=center;" vertex="1" parent="1">
+          <mxGeometry x="800" y="604" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="b7yM-y_k4tkeJ6indnib-148" value="SYSlog" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;strokeColor=default;align=center;" vertex="1" parent="1">
+          <mxGeometry x="800" y="654" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="b7yM-y_k4tkeJ6indnib-149" value="ErrLog" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;strokeColor=default;align=center;" vertex="1" parent="1">
+          <mxGeometry x="800" y="704" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="b7yM-y_k4tkeJ6indnib-151" value="&lt;p&gt;&lt;span style=&quot;font-size: 14px ; font-weight: normal&quot;&gt;日志采集分为多节点部署，针对存储集群，实现sidecar模式进行部署，不影响每个集群内的资源使用；&lt;/span&gt;&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="790" y="740" width="230" height="170" as="geometry" />
+        </mxCell>
+        <mxCell id="b7yM-y_k4tkeJ6indnib-162" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=16;align=center;" edge="1" parent="1" source="b7yM-y_k4tkeJ6indnib-159" target="b7yM-y_k4tkeJ6indnib-161">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="b7yM-y_k4tkeJ6indnib-159" value="Flume" style="whiteSpace=wrap;html=1;rounded=1;fontSize=16;strokeColor=default;" vertex="1" parent="1">
+          <mxGeometry x="950" y="604" width="70" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="b7yM-y_k4tkeJ6indnib-167" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=16;align=center;dashed=1;" edge="1" parent="1" source="b7yM-y_k4tkeJ6indnib-161" target="b7yM-y_k4tkeJ6indnib-168">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="b7yM-y_k4tkeJ6indnib-193" value="预处理" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=16;" vertex="1" connectable="0" parent="b7yM-y_k4tkeJ6indnib-167">
+          <mxGeometry x="-0.136" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="b7yM-y_k4tkeJ6indnib-194" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=16;align=center;dashed=1;" edge="1" parent="1" source="b7yM-y_k4tkeJ6indnib-161" target="b7yM-y_k4tkeJ6indnib-181">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1020" y="530" />
+              <mxPoint x="1045" y="530" />
+              <mxPoint x="1045" y="675" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="b7yM-y_k4tkeJ6indnib-208" value="进入计算" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=16;horizontal=0;" vertex="1" connectable="0" parent="b7yM-y_k4tkeJ6indnib-194">
+          <mxGeometry x="-0.1349" y="3" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="b7yM-y_k4tkeJ6indnib-207" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=16;align=center;dashed=1;" edge="1" parent="1" source="b7yM-y_k4tkeJ6indnib-161" target="b7yM-y_k4tkeJ6indnib-196">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1030" y="550" />
+              <mxPoint x="1030" y="843" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="b7yM-y_k4tkeJ6indnib-209" value="存储" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=16;horizontal=0;" vertex="1" connectable="0" parent="b7yM-y_k4tkeJ6indnib-207">
+          <mxGeometry x="-0.0554" y="-1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="b7yM-y_k4tkeJ6indnib-161" value="Kafka" style="whiteSpace=wrap;html=1;rounded=1;fontSize=16;strokeColor=default;" vertex="1" parent="1">
+          <mxGeometry x="950" y="534" width="70" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="b7yM-y_k4tkeJ6indnib-165" value="日志处理Pipeline" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;strokeColor=default;align=center;" vertex="1" parent="1">
+          <mxGeometry x="1085" y="440" width="305" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="b7yM-y_k4tkeJ6indnib-169" value="Grok拆分" style="whiteSpace=wrap;html=1;rounded=1;fontSize=16;strokeColor=default;" vertex="1" parent="1">
+          <mxGeometry x="1080" y="490" width="70" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="b7yM-y_k4tkeJ6indnib-170" value="JSON转换" style="whiteSpace=wrap;html=1;rounded=1;fontSize=16;strokeColor=default;" vertex="1" parent="1">
+          <mxGeometry x="1160" y="490" width="70" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="b7yM-y_k4tkeJ6indnib-174" value="字段分割" style="whiteSpace=wrap;html=1;rounded=1;fontSize=16;strokeColor=default;" vertex="1" parent="1">
+          <mxGeometry x="1080" y="540" width="70" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="b7yM-y_k4tkeJ6indnib-175" value="正则替换" style="whiteSpace=wrap;html=1;rounded=1;fontSize=16;strokeColor=default;" vertex="1" parent="1">
+          <mxGeometry x="1160" y="540" width="70" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="b7yM-y_k4tkeJ6indnib-176" value="XML解析" style="whiteSpace=wrap;html=1;rounded=1;fontSize=16;strokeColor=default;" vertex="1" parent="1">
+          <mxGeometry x="1240" y="490" width="70" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="b7yM-y_k4tkeJ6indnib-177" value="CSV解析" style="whiteSpace=wrap;html=1;rounded=1;fontSize=16;strokeColor=default;" vertex="1" parent="1">
+          <mxGeometry x="1320" y="490" width="70" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="b7yM-y_k4tkeJ6indnib-178" value="KV提取" style="whiteSpace=wrap;html=1;rounded=1;fontSize=16;strokeColor=default;" vertex="1" parent="1">
+          <mxGeometry x="1240" y="540" width="70" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="b7yM-y_k4tkeJ6indnib-179" value="存储脱敏" style="whiteSpace=wrap;html=1;rounded=1;fontSize=16;strokeColor=default;" vertex="1" parent="1">
+          <mxGeometry x="1320" y="540" width="70" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="b7yM-y_k4tkeJ6indnib-180" value="···" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;strokeColor=default;align=center;" vertex="1" parent="1">
+          <mxGeometry x="1400" y="490" width="20" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="b7yM-y_k4tkeJ6indnib-210" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.75;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;fontSize=16;align=center;" edge="1" parent="1" source="b7yM-y_k4tkeJ6indnib-181" target="b7yM-y_k4tkeJ6indnib-196">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="b7yM-y_k4tkeJ6indnib-212" value="数据存储" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=16;horizontal=0;" vertex="1" connectable="0" parent="b7yM-y_k4tkeJ6indnib-210">
+          <mxGeometry x="0.0476" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="b7yM-y_k4tkeJ6indnib-181" value="" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;strokeColor=default;align=center;" vertex="1" parent="1">
+          <mxGeometry x="1070" y="595" width="360" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="b7yM-y_k4tkeJ6indnib-182" value="流式计算" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;strokeColor=default;align=center;" vertex="1" parent="1">
+          <mxGeometry x="1085" y="605" width="305" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="b7yM-y_k4tkeJ6indnib-183" value="聚合类计算" style="whiteSpace=wrap;html=1;rounded=1;fontSize=16;strokeColor=default;" vertex="1" parent="1">
+          <mxGeometry x="1080" y="655" width="70" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="b7yM-y_k4tkeJ6indnib-184" value="关联计算" style="whiteSpace=wrap;html=1;rounded=1;fontSize=16;strokeColor=default;" vertex="1" parent="1">
+          <mxGeometry x="1160" y="655" width="70" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="b7yM-y_k4tkeJ6indnib-185" value="指标数据" style="whiteSpace=wrap;html=1;rounded=1;fontSize=16;strokeColor=default;" vertex="1" parent="1">
+          <mxGeometry x="1080" y="705" width="70" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="b7yM-y_k4tkeJ6indnib-186" value="似然估计" style="whiteSpace=wrap;html=1;rounded=1;fontSize=16;strokeColor=default;" vertex="1" parent="1">
+          <mxGeometry x="1160" y="705" width="70" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="b7yM-y_k4tkeJ6indnib-187" value="基础运算" style="whiteSpace=wrap;html=1;rounded=1;fontSize=16;strokeColor=default;" vertex="1" parent="1">
+          <mxGeometry x="1240" y="655" width="70" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="b7yM-y_k4tkeJ6indnib-188" value="join运算" style="whiteSpace=wrap;html=1;rounded=1;fontSize=16;strokeColor=default;" vertex="1" parent="1">
+          <mxGeometry x="1320" y="655" width="70" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="b7yM-y_k4tkeJ6indnib-189" value="····" style="whiteSpace=wrap;html=1;rounded=1;fontSize=16;strokeColor=default;" vertex="1" parent="1">
+          <mxGeometry x="1240" y="705" width="70" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="b7yM-y_k4tkeJ6indnib-215" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;fontSize=16;align=center;exitX=1;exitY=0.25;exitDx=0;exitDy=0;" edge="1" parent="1" source="b7yM-y_k4tkeJ6indnib-196">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1490" y="880" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="1430" y="843" />
+              <mxPoint x="1470" y="843" />
+              <mxPoint x="1470" y="853" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="b7yM-y_k4tkeJ6indnib-196" value="" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;strokeColor=default;align=center;" vertex="1" parent="1">
+          <mxGeometry x="1070" y="763" width="360" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="b7yM-y_k4tkeJ6indnib-197" value="数据存储（DODB）" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;strokeColor=default;align=center;" vertex="1" parent="1">
+          <mxGeometry x="1085" y="773" width="305" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="b7yM-y_k4tkeJ6indnib-198" value="分布式列式数据库" style="whiteSpace=wrap;html=1;rounded=1;fontSize=16;strokeColor=default;" vertex="1" parent="1">
+          <mxGeometry x="1080" y="823" width="70" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="b7yM-y_k4tkeJ6indnib-199" value="定期存储" style="whiteSpace=wrap;html=1;rounded=1;fontSize=16;strokeColor=default;" vertex="1" parent="1">
+          <mxGeometry x="1160" y="823" width="70" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="b7yM-y_k4tkeJ6indnib-200" value="HDFS" style="whiteSpace=wrap;html=1;rounded=1;fontSize=16;strokeColor=default;" vertex="1" parent="1">
+          <mxGeometry x="1080" y="873" width="70" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="b7yM-y_k4tkeJ6indnib-201" value="Spark" style="whiteSpace=wrap;html=1;rounded=1;fontSize=16;strokeColor=default;" vertex="1" parent="1">
+          <mxGeometry x="1160" y="873" width="70" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="b7yM-y_k4tkeJ6indnib-202" value="节点数据立方" style="whiteSpace=wrap;html=1;rounded=1;fontSize=16;strokeColor=default;" vertex="1" parent="1">
+          <mxGeometry x="1240" y="823" width="70" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="b7yM-y_k4tkeJ6indnib-203" value="分级存储" style="whiteSpace=wrap;html=1;rounded=1;fontSize=16;strokeColor=default;" vertex="1" parent="1">
+          <mxGeometry x="1320" y="823" width="70" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="b7yM-y_k4tkeJ6indnib-204" value="Hive" style="whiteSpace=wrap;html=1;rounded=1;fontSize=16;strokeColor=default;" vertex="1" parent="1">
+          <mxGeometry x="1240" y="873" width="70" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="b7yM-y_k4tkeJ6indnib-205" value="CK" style="whiteSpace=wrap;html=1;rounded=1;fontSize=16;strokeColor=default;" vertex="1" parent="1">
+          <mxGeometry x="1320" y="873" width="70" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="b7yM-y_k4tkeJ6indnib-206" value="···" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;strokeColor=default;align=center;" vertex="1" parent="1">
+          <mxGeometry x="1400" y="823" width="20" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="b7yM-y_k4tkeJ6indnib-214" value="数据使用" style="rhombus;whiteSpace=wrap;html=1;rounded=1;fontSize=16;strokeColor=default;" vertex="1" parent="1">
+          <mxGeometry x="1430" y="853" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="b7yM-y_k4tkeJ6indnib-219" value="" style="endArrow=classic;html=1;dashed=1;fontSize=16;align=center;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="80" y="1480" as="sourcePoint" />
+            <mxPoint x="80" y="1020" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="b7yM-y_k4tkeJ6indnib-220" value="海量日志分析和计算" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="41" y="950" width="180" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="b7yM-y_k4tkeJ6indnib-221" value="" style="endArrow=classic;html=1;dashed=1;fontSize=16;align=center;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="80" y="1480" as="sourcePoint" />
+            <mxPoint x="630" y="1480" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="b7yM-y_k4tkeJ6indnib-222" value="数据量级" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="70" y="990" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="b7yM-y_k4tkeJ6indnib-223" value="响应时间" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="630" y="1470" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="b7yM-y_k4tkeJ6indnib-224" value="万亿" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="40" y="1050" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="b7yM-y_k4tkeJ6indnib-225" value="千亿" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="40" y="1122" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="b7yM-y_k4tkeJ6indnib-226" value="百亿" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="40" y="1193" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="b7yM-y_k4tkeJ6indnib-227" value="十亿" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="40" y="1265" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="b7yM-y_k4tkeJ6indnib-228" value="亿" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="40" y="1337" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="b7yM-y_k4tkeJ6indnib-229" value="千万" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="40" y="1408" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="b7yM-y_k4tkeJ6indnib-236" value="&amp;gt;=10M" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="120" y="1490" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="b7yM-y_k4tkeJ6indnib-237" value="&amp;gt;=5M" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="200" y="1490" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="b7yM-y_k4tkeJ6indnib-238" value="&amp;gt;=1M" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="280" y="1490" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="b7yM-y_k4tkeJ6indnib-239" value="&amp;gt;=10S" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="360" y="1490" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="b7yM-y_k4tkeJ6indnib-240" value="&amp;gt;=1S" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="440" y="1490" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="b7yM-y_k4tkeJ6indnib-241" value="ms" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="520" y="1490" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="b7yM-y_k4tkeJ6indnib-244" value="Hadoop&lt;br&gt;Hive&lt;span style=&quot;color: rgba(0 , 0 , 0 , 0) ; font-family: monospace ; font-size: 0px&quot;&gt;%3CmxGraphModel%3E%3Croot%3E%3CmxCell%20id%3D%220%22%2F%3E%3CmxCell%20id%3D%221%22%20parent%3D%220%22%2F%3E%3CmxCell%20id%3D%222%22%20value%3D%22%E5%8D%81%E5%88%86%E9%92%9F%22%20style%3D%22text%3Bhtml%3D1%3BstrokeColor%3Dnone%3BfillColor%3Dnone%3Balign%3Dcenter%3BverticalAlign%3Dmiddle%3BwhiteSpace%3Dwrap%3Brounded%3D0%3BfontSize%3D16%3B%22%20vertex%3D%221%22%20parent%3D%221%22%3E%3CmxGeometry%20x%3D%22120%22%20y%3D%221490%22%20width%3D%2240%22%20height%3D%2220%22%20as%3D%22geometry%22%2F%3E%3C%2FmxCell%3E%3CmxCell%20id%3D%223%22%20value%3D%22%E5%8D%81%E5%88%86%E9%92%9F%22%20style%3D%22text%3Bhtml%3D1%3BstrokeColor%3Dnone%3BfillColor%3Dnone%3Balign%3Dcenter%3BverticalAlign%3Dmiddle%3BwhiteSpace%3Dwrap%3Brounded%3D0%3BfontSize%3D16%3B%22%20vertex%3D%221%22%20parent%3D%221%22%3E%3CmxGeometry%20x%3D%22200%22%20y%3D%221490%22%20width%3D%2240%22%20height%3D%2220%22%20as%3D%22geometry%22%2F%3E%3C%2FmxCell%3E%3CmxCell%20id%3D%224%22%20value%3D%22%E5%8D%81%E5%88%86%E9%92%9F%22%20style%3D%22text%3Bhtml%3D1%3BstrokeColor%3Dnone%3BfillColor%3Dnone%3Balign%3Dcenter%3BverticalAlign%3Dmiddle%3BwhiteSpace%3Dwrap%3Brounded%3D0%3BfontSize%3D16%3B%22%20vertex%3D%221%22%20parent%3D%221%22%3E%3CmxGeometry%20x%3D%22280%22%20y%3D%221490%22%20width%3D%2240%22%20height%3D%2220%22%20as%3D%22geometry%22%2F%3E%3C%2FmxCell%3E%3CmxCell%20id%3D%225%22%20value%3D%22%E5%8D%81%E5%88%86%E9%92%9F%22%20style%3D%22text%3Bhtml%3D1%3BstrokeColor%3Dnone%3BfillColor%3Dnone%3Balign%3Dcenter%3BverticalAlign%3Dmiddle%3BwhiteSpace%3Dwrap%3Brounded%3D0%3BfontSize%3D16%3B%22%20vertex%3D%221%22%20parent%3D%221%22%3E%3CmxGeometry%20x%3D%22360%22%20y%3D%221490%22%20width%3D%2240%22%20height%3D%2220%22%20as%3D%22geometry%22%2F%3E%3C%2FmxCell%3E%3C%2Froot%3E%3C%2FmxGraphModel%3E&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;strokeColor=#d6b656;align=center;verticalAlign=middle;opacity=30;fillColor=#E6FFCC;" vertex="1" parent="1">
+          <mxGeometry x="110" y="1062" width="230" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="b7yM-y_k4tkeJ6indnib-245" value="Spark" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;strokeColor=#b85450;align=center;verticalAlign=middle;fillColor=#f8cecc;opacity=30;" vertex="1" parent="1">
+          <mxGeometry x="280" y="1102" width="200" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="b7yM-y_k4tkeJ6indnib-246" value="Impala&lt;br&gt;Presto" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;strokeColor=#9673a6;align=center;verticalAlign=middle;fillColor=#e1d5e7;opacity=30;" vertex="1" parent="1">
+          <mxGeometry x="320" y="1070" width="200" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="b7yM-y_k4tkeJ6indnib-247" value="Kylin&lt;br&gt;Druid" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;strokeColor=#d79b00;align=center;verticalAlign=middle;fillColor=#ffe6cc;opacity=30;" vertex="1" parent="1">
+          <mxGeometry x="420" y="1070" width="160" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="b7yM-y_k4tkeJ6indnib-248" value="Drill" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;strokeColor=#BD7000;align=center;verticalAlign=middle;fillColor=#f0a30a;opacity=30;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="380" y="1173" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="b7yM-y_k4tkeJ6indnib-249" value="ELK(检索)" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;strokeColor=#B09500;align=center;verticalAlign=middle;fillColor=#e3c800;opacity=30;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="400" y="1205" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="b7yM-y_k4tkeJ6indnib-250" value="ELK（分析）" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;strokeColor=#314354;align=center;verticalAlign=middle;fillColor=#647687;opacity=30;fontColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="280" y="1277" width="200" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="b7yM-y_k4tkeJ6indnib-251" value="RDBMS" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;strokeColor=#3A5431;align=center;verticalAlign=middle;fillColor=#6d8764;opacity=30;fontColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="440" y="1388" width="140" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="b7yM-y_k4tkeJ6indnib-253" value="" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;strokeColor=default;fillColor=#E6FFCC;align=center;verticalAlign=middle;opacity=30;" vertex="1" parent="1">
+          <mxGeometry x="780" y="940" width="730" height="590" as="geometry" />
+        </mxCell>
+        <mxCell id="b7yM-y_k4tkeJ6indnib-258" value="日志源" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;strokeColor=default;fillColor=none;align=center;verticalAlign=top;opacity=30;" vertex="1" parent="1">
+          <mxGeometry x="790" y="980" width="90" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="b7yM-y_k4tkeJ6indnib-260" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;华为云存储日志接口&lt;/span&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;fontSize=14;align=center;verticalAlign=top;opacity=30;" vertex="1" parent="1">
+          <mxGeometry x="800" y="1010" width="70" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="b7yM-y_k4tkeJ6indnib-261" value="" style="shape=flexArrow;endArrow=classic;html=1;fontSize=14;align=center;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="b7yM-y_k4tkeJ6indnib-262">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="882" y="1040" as="sourcePoint" />
+            <mxPoint x="950" y="1030" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="b7yM-y_k4tkeJ6indnib-262" value="CDC日志采集" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;strokeColor=default;fillColor=none;align=center;verticalAlign=top;opacity=30;" vertex="1" parent="1">
+          <mxGeometry x="960" y="980" width="540" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="b7yM-y_k4tkeJ6indnib-268" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=25;align=center;" edge="1" parent="1" source="b7yM-y_k4tkeJ6indnib-263" target="b7yM-y_k4tkeJ6indnib-264">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="b7yM-y_k4tkeJ6indnib-263" value="&lt;span style=&quot;font-size: 25px;&quot;&gt;日志收集&lt;/span&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;fontSize=25;strokeColor=#d79b00;fillColor=#ffe6cc;align=center;verticalAlign=top;opacity=30;" vertex="1" parent="1">
+          <mxGeometry x="980" y="1010" width="70" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="b7yM-y_k4tkeJ6indnib-269" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=25;align=center;" edge="1" parent="1" source="b7yM-y_k4tkeJ6indnib-264" target="b7yM-y_k4tkeJ6indnib-265">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="b7yM-y_k4tkeJ6indnib-264" value="&lt;span style=&quot;font-size: 25px;&quot;&gt;日志解析&lt;/span&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;fontSize=25;strokeColor=#d6b656;fillColor=#fff2cc;align=center;verticalAlign=top;opacity=30;" vertex="1" parent="1">
+          <mxGeometry x="1085" y="1010" width="70" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="b7yM-y_k4tkeJ6indnib-270" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=25;align=center;" edge="1" parent="1" source="b7yM-y_k4tkeJ6indnib-265" target="b7yM-y_k4tkeJ6indnib-266">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="b7yM-y_k4tkeJ6indnib-265" value="&lt;span style=&quot;font-size: 25px;&quot;&gt;日志转换&lt;/span&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;fontSize=25;strokeColor=#b85450;fillColor=#f8cecc;align=center;verticalAlign=top;opacity=30;" vertex="1" parent="1">
+          <mxGeometry x="1190" y="1010" width="70" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="b7yM-y_k4tkeJ6indnib-271" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=25;align=center;" edge="1" parent="1" source="b7yM-y_k4tkeJ6indnib-266" target="b7yM-y_k4tkeJ6indnib-267">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="b7yM-y_k4tkeJ6indnib-266" value="&lt;span style=&quot;font-size: 25px;&quot;&gt;日志发送&lt;/span&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;fontSize=25;strokeColor=#9673a6;fillColor=#e1d5e7;align=center;verticalAlign=top;opacity=30;" vertex="1" parent="1">
+          <mxGeometry x="1295" y="1010" width="70" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="b7yM-y_k4tkeJ6indnib-267" value="发送负载" style="whiteSpace=wrap;html=1;aspect=fixed;fontSize=25;strokeColor=#82b366;fillColor=#d5e8d4;align=center;verticalAlign=top;opacity=30;" vertex="1" parent="1">
+          <mxGeometry x="1400" y="1010" width="70" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="b7yM-y_k4tkeJ6indnib-273" value="" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;strokeColor=#6c8ebf;align=center;fillColor=#dae8fc;" vertex="1" parent="1">
+          <mxGeometry x="950" y="1142" width="550" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="b7yM-y_k4tkeJ6indnib-274" value="日志处理Pipeline" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;strokeColor=#6c8ebf;align=center;fillColor=#dae8fc;" vertex="1" parent="1">
+          <mxGeometry x="960" y="1152" width="520" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="b7yM-y_k4tkeJ6indnib-284" value="" style="shape=flexArrow;endArrow=classic;html=1;fontSize=25;align=center;exitX=0.483;exitY=1.017;exitDx=0;exitDy=0;exitPerimeter=0;width=72;endSize=4.94;" edge="1" parent="1" source="b7yM-y_k4tkeJ6indnib-262">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1290" y="1130" as="sourcePoint" />
+            <mxPoint x="1221" y="1140" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="b7yM-y_k4tkeJ6indnib-288" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=25;align=center;" edge="1" parent="1" source="b7yM-y_k4tkeJ6indnib-285" target="b7yM-y_k4tkeJ6indnib-286">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="b7yM-y_k4tkeJ6indnib-285" value="数据接收" style="whiteSpace=wrap;html=1;aspect=fixed;fontSize=25;strokeColor=#d79b00;fillColor=#ffe6cc;align=center;verticalAlign=top;opacity=30;" vertex="1" parent="1">
+          <mxGeometry x="985" y="1215" width="70" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="b7yM-y_k4tkeJ6indnib-289" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=25;align=center;" edge="1" parent="1" source="b7yM-y_k4tkeJ6indnib-286" target="b7yM-y_k4tkeJ6indnib-287">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="b7yM-y_k4tkeJ6indnib-286" value="数据清洗" style="whiteSpace=wrap;html=1;aspect=fixed;fontSize=25;strokeColor=#d79b00;fillColor=#ffe6cc;align=center;verticalAlign=top;opacity=30;" vertex="1" parent="1">
+          <mxGeometry x="1190" y="1215" width="70" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="b7yM-y_k4tkeJ6indnib-287" value="数据导出" style="whiteSpace=wrap;html=1;aspect=fixed;fontSize=25;strokeColor=#d79b00;fillColor=#ffe6cc;align=center;verticalAlign=top;opacity=30;" vertex="1" parent="1">
+          <mxGeometry x="1395" y="1215" width="70" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="b7yM-y_k4tkeJ6indnib-290" value="数据系统" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;strokeColor=default;fillColor=none;align=center;verticalAlign=top;opacity=30;" vertex="1" parent="1">
+          <mxGeometry x="790" y="1169" width="90" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="b7yM-y_k4tkeJ6indnib-291" value="&lt;span style=&quot;font-size: 14px&quot;&gt;对接其他数据系统、算法系统等&lt;/span&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;fontSize=14;align=center;verticalAlign=top;opacity=30;" vertex="1" parent="1">
+          <mxGeometry x="800" y="1199" width="70" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="b7yM-y_k4tkeJ6indnib-293" value="" style="shape=flexArrow;endArrow=classic;startArrow=classic;html=1;fontSize=25;align=center;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="b7yM-y_k4tkeJ6indnib-273">
+          <mxGeometry width="100" height="100" relative="1" as="geometry">
+            <mxPoint x="882" y="1222" as="sourcePoint" />
+            <mxPoint x="990" y="1210" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="b7yM-y_k4tkeJ6indnib-295" value="" style="shape=flexArrow;endArrow=classic;html=1;fontSize=25;align=center;exitX=0.483;exitY=1.017;exitDx=0;exitDy=0;exitPerimeter=0;width=72;endSize=4.94;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1219.5000000000002" y="1302" as="sourcePoint" />
+            <mxPoint x="1220" y="1330" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="b7yM-y_k4tkeJ6indnib-296" value="统一日志存储（CK、DODB）、索引等" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;strokeColor=#b85450;align=center;fillColor=#f8cecc;" vertex="1" parent="1">
+          <mxGeometry x="950" y="1332" width="550" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="b7yM-y_k4tkeJ6indnib-297" value="" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;strokeColor=#6c8ebf;align=center;fillColor=#dae8fc;" vertex="1" parent="1">
+          <mxGeometry x="950" y="1400" width="550" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="b7yM-y_k4tkeJ6indnib-298" value="" style="shape=flexArrow;endArrow=classic;html=1;fontSize=25;align=center;exitX=0.483;exitY=1.017;exitDx=0;exitDy=0;exitPerimeter=0;width=72;endSize=4.94;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1224.5000000000002" y="1362" as="sourcePoint" />
+            <mxPoint x="1224.68" y="1399.96" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="b7yM-y_k4tkeJ6indnib-299" value="搜索" style="whiteSpace=wrap;html=1;aspect=fixed;fontSize=25;strokeColor=#d79b00;fillColor=#ffe6cc;align=center;verticalAlign=top;opacity=30;" vertex="1" parent="1">
+          <mxGeometry x="960" y="1425" width="70" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="b7yM-y_k4tkeJ6indnib-300" value="报表" style="whiteSpace=wrap;html=1;aspect=fixed;fontSize=25;strokeColor=#d79b00;fillColor=#ffe6cc;align=center;verticalAlign=top;opacity=30;" vertex="1" parent="1">
+          <mxGeometry x="1040" y="1425" width="70" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="b7yM-y_k4tkeJ6indnib-301" value="监控告警" style="whiteSpace=wrap;html=1;aspect=fixed;fontSize=25;strokeColor=#d79b00;fillColor=#ffe6cc;align=center;verticalAlign=top;opacity=30;" vertex="1" parent="1">
+          <mxGeometry x="1120" y="1425" width="70" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="b7yM-y_k4tkeJ6indnib-302" value="API" style="whiteSpace=wrap;html=1;aspect=fixed;fontSize=25;strokeColor=#d79b00;fillColor=#ffe6cc;align=center;verticalAlign=top;opacity=30;" vertex="1" parent="1">
+          <mxGeometry x="1200" y="1425" width="70" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="b7yM-y_k4tkeJ6indnib-303" value="分析预测" style="whiteSpace=wrap;html=1;aspect=fixed;fontSize=25;strokeColor=#d79b00;fillColor=#ffe6cc;align=center;verticalAlign=top;opacity=30;" vertex="1" parent="1">
+          <mxGeometry x="1280" y="1425" width="70" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="b7yM-y_k4tkeJ6indnib-304" value="算法服务" style="whiteSpace=wrap;html=1;aspect=fixed;fontSize=25;strokeColor=#d79b00;fillColor=#ffe6cc;align=center;verticalAlign=top;opacity=30;" vertex="1" parent="1">
+          <mxGeometry x="1360" y="1425" width="70" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="b7yM-y_k4tkeJ6indnib-305" value="···" style="whiteSpace=wrap;html=1;aspect=fixed;fontSize=25;strokeColor=#d79b00;fillColor=#ffe6cc;align=center;verticalAlign=top;opacity=30;" vertex="1" parent="1">
+          <mxGeometry x="1440" y="1435" width="50" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="b7yM-y_k4tkeJ6indnib-306" value="其他平台" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;strokeColor=default;fillColor=none;align=center;verticalAlign=top;opacity=30;" vertex="1" parent="1">
+          <mxGeometry x="790" y="1300" width="90" height="220" as="geometry" />
+        </mxCell>
+        <mxCell id="b7yM-y_k4tkeJ6indnib-309" value="&lt;h6&gt;&lt;font style=&quot;font-size: 14px&quot;&gt;算法平台&lt;/font&gt;&lt;/h6&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=25;strokeColor=default;fillColor=none;align=center;verticalAlign=middle;opacity=30;" vertex="1" parent="1">
+          <mxGeometry x="800" y="1330" width="70" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="b7yM-y_k4tkeJ6indnib-310" value="&lt;h6&gt;&lt;font style=&quot;font-size: 14px&quot;&gt;可视化平台&lt;/font&gt;&lt;/h6&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=25;strokeColor=default;fillColor=none;align=center;verticalAlign=middle;opacity=30;" vertex="1" parent="1">
+          <mxGeometry x="800" y="1385" width="70" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="b7yM-y_k4tkeJ6indnib-311" value="&lt;h6&gt;&lt;font style=&quot;font-size: 14px&quot;&gt;告警平台&lt;/font&gt;&lt;/h6&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=25;strokeColor=default;fillColor=none;align=center;verticalAlign=middle;opacity=30;" vertex="1" parent="1">
+          <mxGeometry x="800" y="1440" width="70" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="b7yM-y_k4tkeJ6indnib-312" value="&lt;font style=&quot;font-size: 14px&quot;&gt;···&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=25;strokeColor=default;fillColor=none;align=center;verticalAlign=middle;opacity=30;" vertex="1" parent="1">
+          <mxGeometry x="800" y="1485" width="70" height="25" as="geometry" />
+        </mxCell>
+        <mxCell id="b7yM-y_k4tkeJ6indnib-314" value="&lt;p class=&quot;p1&quot; style=&quot;margin: 0px ; font-stretch: normal ; line-height: normal ; font-family: &amp;#34;pingfang sc&amp;#34;&quot;&gt;&lt;b&gt;&lt;font style=&quot;font-size: 20px&quot;&gt;剖析：平台&lt;/font&gt;&lt;/b&gt;&lt;/p&gt;&lt;p class=&quot;p1&quot; style=&quot;margin: 0px ; font-stretch: normal ; font-size: 18px ; line-height: normal ; font-family: &amp;#34;pingfang sc&amp;#34;&quot;&gt;我们首先自研了&lt;span class=&quot;s1&quot; style=&quot;font-stretch: normal ; line-height: normal ; font-family: &amp;#34;helvetica neue&amp;#34;&quot;&gt;CDC&lt;/span&gt;和&lt;span class=&quot;s1&quot; style=&quot;font-stretch: normal ; line-height: normal ; font-family: &amp;#34;helvetica neue&amp;#34;&quot;&gt;DOCC&lt;/span&gt;平台，用来专业收集、同步各种开源项目或者日志文件的数据。另外设计了一套数据总线&lt;span class=&quot;s1&quot; style=&quot;font-stretch: normal ; line-height: normal ; font-family: &amp;#34;helvetica neue&amp;#34;&quot;&gt; Pipeline&lt;/span&gt;，结合了云平台的数据吞吐量超大，但延迟可以接受到秒级的延迟的特点。这里我们采用了多&lt;span class=&quot;s1&quot; style=&quot;font-stretch: normal ; line-height: normal ; font-family: &amp;#34;helvetica neue&amp;#34;&quot;&gt; Kafka &lt;/span&gt;集群&lt;span class=&quot;s1&quot; style=&quot;font-stretch: normal ; line-height: normal ; font-family: &amp;#34;helvetica neue&amp;#34;&quot;&gt; + Spark Streaming&lt;/span&gt;，自研了流量调度系统，可以将数据高效的导出到下游的统一日志存储产品中，同时使用&lt;span class=&quot;s1&quot; style=&quot;font-stretch: normal ; line-height: normal ; font-family: &amp;#34;helvetica neue&amp;#34;&quot;&gt; Spark Streaming &lt;/span&gt;和模式识别日志算法完成日志解析，字段提取等工作。统一日志存储这里我们支持了自研和各种第三方的图表展示系统。后端数据系统我们采用的是混合架构模式，这里主体包含了三个基础产品。&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=25;strokeColor=#23445d;fillColor=#bac8d3;align=left;verticalAlign=top;opacity=30;" vertex="1" parent="1">
+          <mxGeometry x="40" y="1540" width="1470" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="b7yM-y_k4tkeJ6indnib-315" value="&lt;p class=&quot;p1&quot; style=&quot;margin: 0px ; font-stretch: normal ; line-height: normal ; font-family: &amp;#34;pingfang sc&amp;#34;&quot;&gt;&lt;b&gt;&lt;font style=&quot;font-size: 20px&quot;&gt;剖析：平台&lt;/font&gt;&lt;/b&gt;&lt;/p&gt;&lt;p class=&quot;p1&quot; style=&quot;margin: 0px ; font-stretch: normal ; font-size: 18px ; line-height: normal ; font-family: &amp;#34;pingfang sc&amp;#34;&quot;&gt;我们首先自研了&lt;span class=&quot;s1&quot; style=&quot;font-stretch: normal ; line-height: normal ; font-family: &amp;#34;helvetica neue&amp;#34;&quot;&gt;CDC&lt;/span&gt;和&lt;span class=&quot;s1&quot; style=&quot;font-stretch: normal ; line-height: normal ; font-family: &amp;#34;helvetica neue&amp;#34;&quot;&gt;DOCC&lt;/span&gt;平台，用来专业收集、同步各种开源项目或者日志文件的数据。另外设计了一套数据总线&lt;span class=&quot;s1&quot; style=&quot;font-stretch: normal ; line-height: normal ; font-family: &amp;#34;helvetica neue&amp;#34;&quot;&gt; Pipeline&lt;/span&gt;，结合了云平台的数据吞吐量超大，但延迟可以接受到秒级的延迟的特点。这里我们采用了多&lt;span class=&quot;s1&quot; style=&quot;font-stretch: normal ; line-height: normal ; font-family: &amp;#34;helvetica neue&amp;#34;&quot;&gt; Kafka &lt;/span&gt;集群&lt;span class=&quot;s1&quot; style=&quot;font-stretch: normal ; line-height: normal ; font-family: &amp;#34;helvetica neue&amp;#34;&quot;&gt; + Spark Streaming&lt;/span&gt;，自研了流量调度系统，可以将数据高效的导出到下游的统一日志存储产品中，同时使用&lt;span class=&quot;s1&quot; style=&quot;font-stretch: normal ; line-height: normal ; font-family: &amp;#34;helvetica neue&amp;#34;&quot;&gt; Spark Streaming &lt;/span&gt;和模式识别日志算法完成日志解析，字段提取等工作。统一日志存储这里我们支持了自研和各种第三方的图表展示系统。后端数据系统我们采用的是混合架构模式，这里主体包含了三个基础产品。&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=25;strokeColor=#23445d;fillColor=#bac8d3;align=left;verticalAlign=top;opacity=30;" vertex="1" parent="1">
+          <mxGeometry x="40" y="1720" width="1470" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="b7yM-y_k4tkeJ6indnib-316" value="&lt;p class=&quot;p1&quot; style=&quot;margin: 0px ; font-stretch: normal ; line-height: normal ; font-family: &amp;#34;pingfang sc&amp;#34;&quot;&gt;&lt;b&gt;&lt;font style=&quot;font-size: 20px&quot;&gt;优势分析：平台&lt;/font&gt;&lt;/b&gt;&lt;/p&gt;&lt;p class=&quot;p1&quot; style=&quot;margin: 0px ; font-stretch: normal ; line-height: normal ; font-family: &amp;#34;pingfang sc&amp;#34; ; font-size: 16px&quot;&gt;&lt;font style=&quot;font-size: 16px&quot;&gt;日志采集平台&lt;/font&gt;&lt;/p&gt;&lt;p class=&quot;p1&quot; style=&quot;margin: 0px ; font-stretch: normal ; line-height: normal ; font-family: &amp;#34;pingfang sc&amp;#34; ; font-size: 16px&quot;&gt;&lt;font style=&quot;font-size: 16px&quot;&gt;基于sidecar的架构模式定制化设计一套用于云存储的采集平台，可实现无侵入采集日志，对云的安全和稳定运行，可以足够的保障；CDC采控组件内引入日志预处理算法使用，针对多节点（多租户）设计，将OBS调用日志按照指标分组进行拆解，分三路进入预处理、计算、存储节点，分类分析日志；&lt;/font&gt;&lt;/p&gt;&lt;p class=&quot;p1&quot; style=&quot;margin: 0px ; font-stretch: normal ; line-height: normal ; font-family: &amp;#34;pingfang sc&amp;#34; ; font-size: 16px&quot;&gt;&lt;font style=&quot;font-size: 16px&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/p&gt;&lt;p class=&quot;p1&quot; style=&quot;margin: 0px ; font-stretch: normal ; line-height: normal ; font-family: &amp;#34;pingfang sc&amp;#34; ; font-size: 16px&quot;&gt;&lt;font style=&quot;font-size: 16px&quot;&gt;日志分析平台&lt;/font&gt;&lt;/p&gt;&lt;p class=&quot;p1&quot; style=&quot;margin: 0px ; font-stretch: normal ; line-height: normal ; font-family: &amp;#34;pingfang sc&amp;#34; ; font-size: 16px&quot;&gt;&lt;font style=&quot;font-size: 16px&quot;&gt;基于华为定制版本的分析平台，构建日志存储和索引系统，能够在吞吐量&lt;span class=&quot;s1&quot; style=&quot;font-stretch: normal ; line-height: normal ; font-family: &amp;#34;helvetica neue&amp;#34;&quot;&gt; 500-700w/s&lt;span class=&quot;Apple-converted-space&quot;&gt;&amp;nbsp; &lt;/span&gt;&lt;/span&gt;的情况下集群依然保证十亿级别数据搜索秒级返回。数据存储在&lt;span class=&quot;s1&quot; style=&quot;font-stretch: normal ; line-height: normal ; font-family: &amp;#34;helvetica neue&amp;#34;&quot;&gt;Clickhouse/ES/HBase&lt;/span&gt;存储集群中，数据的整体压缩率较好，全量数据分析和预聚合都支持较好，响应时间通常情况下在毫秒级，数据处理规模可以达到每天&lt;span class=&quot;s1&quot; style=&quot;font-stretch: normal ; line-height: normal ; font-family: &amp;#34;helvetica neue&amp;#34;&quot;&gt;TB&lt;/span&gt;的量级。&lt;/font&gt;&lt;/p&gt;&lt;p class=&quot;p2&quot; style=&quot;margin: 0px ; font-stretch: normal ; line-height: normal ; font-family: &amp;#34;helvetica neue&amp;#34; ; min-height: 16px ; font-size: 16px&quot;&gt;&lt;font style=&quot;font-size: 16px&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/p&gt;&lt;p class=&quot;p1&quot; style=&quot;margin: 0px ; font-stretch: normal ; line-height: normal ; font-family: &amp;#34;pingfang sc&amp;#34; ; font-size: 16px&quot;&gt;&lt;font style=&quot;font-size: 16px&quot;&gt;基于云的多租户数据立方&lt;/font&gt;&lt;/p&gt;&lt;p class=&quot;p1&quot; style=&quot;margin: 0px ; font-stretch: normal ; line-height: normal ; font-family: &amp;#34;pingfang sc&amp;#34; ; font-size: 16px&quot;&gt;&lt;font style=&quot;font-size: 16px&quot;&gt;基于&lt;span class=&quot;s1&quot; style=&quot;font-stretch: normal ; line-height: normal ; font-family: &amp;#34;helvetica neue&amp;#34;&quot;&gt;Druid &lt;/span&gt;构建了数据立方，面向多租户的高性能查询，为最大的租户每日&lt;span class=&quot;s1&quot; style=&quot;font-stretch: normal ; line-height: normal ; font-family: &amp;#34;helvetica neue&amp;#34;&quot;&gt; 30TB+ &lt;/span&gt;原始数据提供秒级的聚合分析。&lt;/font&gt;&lt;/p&gt;&lt;p class=&quot;p2&quot; style=&quot;margin: 0px ; font-stretch: normal ; line-height: normal ; font-family: &amp;#34;helvetica neue&amp;#34; ; min-height: 16px ; font-size: 16px&quot;&gt;&lt;font style=&quot;font-size: 16px&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/p&gt;&lt;p class=&quot;p1&quot; style=&quot;margin: 0px ; font-stretch: normal ; line-height: normal ; font-family: &amp;#34;pingfang sc&amp;#34; ; font-size: 16px&quot;&gt;&lt;font style=&quot;font-size: 16px&quot;&gt;离线工作流&lt;/font&gt;&lt;/p&gt;&lt;p class=&quot;p1&quot; style=&quot;margin: 0px ; font-stretch: normal ; line-height: normal ; font-family: &amp;#34;pingfang sc&amp;#34; ; font-size: 16px&quot;&gt;&lt;font style=&quot;font-size: 16px&quot;&gt;基于存储和&lt;span class=&quot;s1&quot; style=&quot;font-stretch: normal ; line-height: normal ; font-family: &amp;#34;helvetica neue&amp;#34;&quot;&gt; Spark &lt;/span&gt;工作流平台提供离线数据计算的能力，可以处理&lt;span class=&quot;s1&quot; style=&quot;font-stretch: normal ; line-height: normal ; font-family: &amp;#34;helvetica neue&amp;#34;&quot;&gt; PB &lt;/span&gt;级数据的大规模计算和分析加工。&lt;/font&gt;&lt;/p&gt;&lt;p class=&quot;p2&quot; style=&quot;margin: 0px ; font-stretch: normal ; line-height: normal ; font-family: &amp;#34;helvetica neue&amp;#34; ; min-height: 16px ; font-size: 16px&quot;&gt;&lt;font style=&quot;font-size: 16px&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/p&gt;&lt;p class=&quot;p1&quot; style=&quot;margin: 0px ; font-stretch: normal ; line-height: normal ; font-family: &amp;#34;pingfang sc&amp;#34; ; font-size: 16px&quot;&gt;&lt;font style=&quot;font-size: 16px&quot;&gt;架构优势&lt;/font&gt;&lt;/p&gt;&lt;p class=&quot;p1&quot; style=&quot;margin: 0px ; font-stretch: normal ; line-height: normal ; font-family: &amp;#34;pingfang sc&amp;#34; ; font-size: 16px&quot;&gt;&lt;font style=&quot;font-size: 16px&quot;&gt;完善的多租户支持&lt;/font&gt;&lt;/p&gt;&lt;p class=&quot;p1&quot; style=&quot;margin: 0px ; font-stretch: normal ; line-height: normal ; font-family: &amp;#34;pingfang sc&amp;#34; ; font-size: 16px&quot;&gt;&lt;font style=&quot;font-size: 16px&quot;&gt;在多租户资源隔离这块，云智慧产品多个级别的隔离支持。包括低级别的命名空间隔离，这时候我们会通过限制用户使用&lt;span class=&quot;s1&quot; style=&quot;font-stretch: normal ; line-height: normal ; font-family: &amp;#34;helvetica neue&amp;#34;&quot;&gt; CPU&lt;/span&gt;、内存等各种共享资源，保证所有客户都能安全使用集群。更多地，为了满足更多客户定制化需求，我们也利用多集群动态扩容方式支持租户之间的空间隔离，用户可以使用独立的资源。另外，在多租户场景中很重要的安全、权限和审计，我们也做了长足的工作。数据我们可以按照数据子集和字段的粒度做权限管理，将数据授权给其他租户。同时我们会对数据的每一次操作记录审计，精确到来源&lt;span class=&quot;s1&quot; style=&quot;font-stretch: normal ; line-height: normal ; font-family: &amp;#34;helvetica neue&amp;#34;&quot;&gt; IP &lt;/span&gt;和操作人员，保证云服务的数据安全性。&lt;/font&gt;&lt;/p&gt;&lt;p class=&quot;p2&quot; style=&quot;margin: 0px ; font-stretch: normal ; line-height: normal ; font-family: &amp;#34;helvetica neue&amp;#34; ; min-height: 16px ; font-size: 16px&quot;&gt;&lt;font style=&quot;font-size: 16px&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/p&gt;&lt;p class=&quot;p1&quot; style=&quot;margin: 0px ; font-stretch: normal ; line-height: normal ; font-family: &amp;#34;pingfang sc&amp;#34; ; font-size: 16px&quot;&gt;&lt;font style=&quot;font-size: 16px&quot;&gt;支撑丰富的业务场景&lt;/font&gt;&lt;/p&gt;&lt;p class=&quot;p1&quot; style=&quot;margin: 0px ; font-stretch: normal ; line-height: normal ; font-family: &amp;#34;pingfang sc&amp;#34; ; font-size: 16px&quot;&gt;&lt;font style=&quot;font-size: 16px&quot;&gt;基于日志领域的大数据平台上，支持实时和离线两种计算模型，使用工作流界面可以简洁方便的操作各种大数据流。使用日志分析和数据立方等产品和工具，可以支持各种场景。包括但不限于：&lt;span class=&quot;s1&quot; style=&quot;font-stretch: normal ; line-height: normal ; font-family: &amp;#34;helvetica neue&amp;#34;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/font&gt;&lt;/p&gt;&lt;p class=&quot;p1&quot; style=&quot;margin: 0px ; font-stretch: normal ; line-height: normal ; font-family: &amp;#34;pingfang sc&amp;#34; ; font-size: 16px&quot;&gt;&lt;font style=&quot;font-size: 16px&quot;&gt;&lt;span class=&quot;s1&quot; style=&quot;font-stretch: normal ; line-height: normal ; font-family: &amp;#34;helvetica neue&amp;#34;&quot;&gt;1&lt;/span&gt;、用户行为分析&lt;/font&gt;&lt;/p&gt;&lt;p class=&quot;p1&quot; style=&quot;margin: 0px ; font-stretch: normal ; line-height: normal ; font-family: &amp;#34;pingfang sc&amp;#34; ; font-size: 16px&quot;&gt;&lt;font style=&quot;font-size: 16px&quot;&gt;&lt;span class=&quot;s1&quot; style=&quot;font-stretch: normal ; line-height: normal ; font-family: &amp;#34;helvetica neue&amp;#34;&quot;&gt;2&lt;/span&gt;、应用性能监控&lt;span class=&quot;s1&quot; style=&quot;font-stretch: normal ; line-height: normal ; font-family: &amp;#34;helvetica neue&amp;#34;&quot;&gt;&lt;br&gt;3&lt;/span&gt;、系统设备性能监控&lt;span class=&quot;s1&quot; style=&quot;font-stretch: normal ; line-height: normal ; font-family: &amp;#34;helvetica neue&amp;#34;&quot;&gt;&lt;br&gt;4&lt;/span&gt;、非侵入式埋点，支持全链路追踪系统，发现分布式系统应用瓶颈&lt;span class=&quot;s1&quot; style=&quot;font-stretch: normal ; line-height: normal ; font-family: &amp;#34;helvetica neue&amp;#34;&quot;&gt;&lt;br&gt;5&lt;/span&gt;、&lt;span class=&quot;s1&quot; style=&quot;font-stretch: normal ; line-height: normal ; font-family: &amp;#34;helvetica neue&amp;#34;&quot;&gt;IoT &lt;/span&gt;设备数据分析和监控&lt;span class=&quot;s1&quot; style=&quot;font-stretch: normal ; line-height: normal ; font-family: &amp;#34;helvetica neue&amp;#34;&quot;&gt;&lt;br&gt;6&lt;/span&gt;、安全、审计和监控&lt;span class=&quot;s1&quot; style=&quot;font-stretch: normal ; line-height: normal ; font-family: &amp;#34;helvetica neue&amp;#34;&quot;&gt;&lt;br&gt;7&lt;/span&gt;、机器学习，自动系统异常探测和归因分析&lt;span class=&quot;s1&quot; style=&quot;font-stretch: normal ; line-height: normal ; font-family: &amp;#34;helvetica neue&amp;#34;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/font&gt;&lt;/p&gt;&lt;p class=&quot;p1&quot; style=&quot;margin: 0px ; font-stretch: normal ; line-height: normal ; font-family: &amp;#34;pingfang sc&amp;#34; ; font-size: 16px&quot;&gt;&lt;font style=&quot;font-size: 16px&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/p&gt;&lt;p class=&quot;p1&quot; style=&quot;margin: 0px ; font-stretch: normal ; line-height: normal ; font-family: &amp;#34;pingfang sc&amp;#34; ; font-size: 16px&quot;&gt;&lt;font style=&quot;font-size: 16px&quot;&gt;用户享受最低反向运维成本&lt;/font&gt;&lt;/p&gt;&lt;p class=&quot;p1&quot; style=&quot;margin: 0px ; font-stretch: normal ; line-height: normal ; font-family: &amp;#34;pingfang sc&amp;#34; ; font-size: 16px&quot;&gt;&lt;font style=&quot;font-size: 16px&quot;&gt;云智慧产品的设计认为，日志运维应该是一个一体化的产品。所以对于客户来说，虽然适配了大量的应用场景，但是仍然只是一个单一的产品组件，所以对于使用云智慧智能运维服务的客户来说反向运维成本是最低的，降低运维人员投入，重点转向AI算法研究，对于快速的业务迭代和增长来说提供了巨大的便利性。&lt;/font&gt;&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=25;strokeColor=#23445d;fillColor=#bac8d3;align=left;verticalAlign=top;opacity=30;" vertex="1" parent="1">
+          <mxGeometry x="40" y="1890" width="1470" height="810" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
